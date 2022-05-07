@@ -1,13 +1,11 @@
 
-<img src="https://user-images.githubusercontent.com/77508540/167272164-8695e05f-e8ec-4d6e-831e-5be0a8577da2.png">
+<img src="https://user-images.githubusercontent.com/77508540/167272164-8695e05f-e8ec-4d6e-831e-5be0a8577da2.png" style=>
 
 ### Welcome to my GitHub! 👋👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimeskigj&layout=compact&theme=tokyonight)](https://github.com/dimeskigj/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeskigj&layout=compact&theme=tokyonight" align="center">
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight" align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeskigj&layout=compact&theme=tokyonight" align="center" width="50%">
 <!--
 **dimeskigj/dimeskigj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
