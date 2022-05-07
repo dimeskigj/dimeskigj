@@ -4,9 +4,10 @@
 ### Welcome to my GitHub! 👋👋
 
 <hr/>
-<div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight" align="center" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeskigj&layout=compact&theme=tokyonight" align="center" width="49%">
+
+#### some stats...
+<div style="width: 100%; display: flex; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight" align="center" width="50%">
 <div>
 <!--
 **dimeskigj/dimeskigj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
