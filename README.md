@@ -5,7 +5,6 @@
 
 <hr/>
 
-#### some stats...
 <div style="width: 100%; display: flex; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight" align="center" width="50%">
 <div>
