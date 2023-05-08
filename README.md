@@ -6,7 +6,8 @@
 <hr/>
 
 - 🔭 I’m currently working on my [flutter drug registry mobile app](https://github.com/dimeskigj/DrugRegistry.Flutter)
-- 💬 Ask me about: dotnet 🕸, flutter 🦋, whatever you wanna chat about ❔
+- 💬 Ask me about dotnet 🕸, flutter 🦋 and whatever you wanna chat about ❔
+- 💜 I love working with C#/dotnet, python & flutter
 - 📫 How to reach me: you can email me @ dimeskigj@gmail.com
 
 <!--
