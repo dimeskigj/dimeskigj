@@ -5,12 +5,15 @@
 
 <hr/>
 
+- 🔭 I’m currently working on my [flutter drug registry mobile app](https://github.com/dimeskigj/DrugRegistry.Flutter)
+- 💬 Ask me about: dotnet 🕸, flutter 🦋, whatever you want to chat about ❔
+- 📫 How to reach me: you can email me @ dimeskigj@gmail.com
+
+<!--
+**dimeskigj/dimeskigj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div style="width: 100%; display: flex; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=dimeskigj&show_icons=true&theme=tokyonight" align="center" width="50%">
 <div>
-<!--
-**dimeskigj/dimeskigj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
