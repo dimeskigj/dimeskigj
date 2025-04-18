@@ -1,15 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/77508540/236901162-918fbb28-ea76-4ac0-a0c6-0b7ed346ec6c.png">
 
-### Welcome to my GitHub! 👋👋
-
-<hr/>
-
-- 🔭 I’m currently fiddling @ [Base 42](https://github.com/42dotmk/)
-- 💬 Ask me about dotnet 🕸, flutter 🦋 and whatever you wanna chat about ❔
-- 💜 I love working with C#/dotnet, python & flutter
-- 📫 How to reach me: you can email me @ dimeskigj@gmail.com
-- 🌐 Find more about me at [dimeski.net](https://dimeski.net/) 
+🌐 Find more about me at [dimeski.net](https://dimeski.net/) 
 
 <!--
 **dimeskigj/dimeskigj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
